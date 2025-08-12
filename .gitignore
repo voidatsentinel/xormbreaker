@@ -1,0 +1,14 @@
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+venv/
+
+# Project
+testing/
+out/
